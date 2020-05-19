@@ -1,1 +1,1 @@
-﻿# Лабораторная раот 6-7## На данный момент реализован не весь функционал![Ссылка на репозиторий проекта](https://github.com/Glazkoff/emercom)## Видеодемонстрация[Видео](https://drive.google.com/open?id=11tBOXjMMcPBHt3ysiJKsD7VOPJ7nMzpT)
+﻿﻿﻿# Лабораторная раот 6-7## Разработка завершена[Ссылка на репозиторий проекта](https://github.com/Glazkoff/emercom)## Видеодемонстрация[Видео](https://drive.google.com/open?id=11tBOXjMMcPBHt3ysiJKsD7VOPJ7nMzpT)
